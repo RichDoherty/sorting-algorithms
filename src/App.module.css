@@ -1,0 +1,66 @@
+body {
+    height: 100vh;
+    background-color: #191724;
+}
+
+.header {
+    color: #e0def4;
+    text-align: center;
+    padding: 16px 0;
+}
+
+.visualizer {
+    display: flex;
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    border: solid #26233a 2px;
+    text-align: center;
+}
+
+.bar {
+    background-color: #ebbcba;
+    margin: auto 2px 0 2px;
+}
+
+.input {
+    display: flex;
+    color: #e0def4;
+    width: 70%;
+    margin: 16px auto auto auto;
+}
+
+.input > label {
+    padding-right: 12px;
+}
+
+.animationSpeedContainer {
+    color: #e0def4;
+    width: 70%;
+    margin: 16px auto auto auto;
+    padding: 12px;
+}
+
+.animationSpeed {
+    width: 200px;
+}
+
+datalist {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.buttonDiv {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+button {
+    margin-left: 12px;
+}
+
+.link {
+    color: #b318f0;
+}
+
